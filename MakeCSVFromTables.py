@@ -1,4 +1,4 @@
-# Scripted by Jakob / https://github.com/hothotcoffe
+# Scripted by Jakob / https://github.com/hothotcoffee
 
 import ctypes
 
