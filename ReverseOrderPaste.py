@@ -1,3 +1,5 @@
+# Scripted by Jakob / https://github.com/hothotcoffee
+
 import ctypes
 
 def Get():
